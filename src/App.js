@@ -99,7 +99,7 @@ function App() {
                 link={link.link}
                 icon={link.icon}
               />
-                  <br>
+                  <br />
             </Grid>
           ))}
         </Grid>
